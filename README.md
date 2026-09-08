@@ -13,7 +13,7 @@ Currently building, competing, and learning my way toward bigger things.
 
 An AI-powered file and system assistant.
 
-### 🖥️ StyferOS
+### 🖥️ [StyferOS](https://github.com/MedDebug/OS)
 
 An experiment in understanding operating systems by building one from scratch.
 
