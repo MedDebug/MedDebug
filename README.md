@@ -27,7 +27,7 @@ Algorithms, data structures, and problem solving on Codeforces.
 
 ## 🚀 Projects
 
-### ♠️ Poker Simulator
+### ♠️ [Poker Simulator](https://github.com/MedDebug/Poker-analytics-engine)
 
 A Python-based Texas Hold'em simulator that evaluates hands, simulates games, and estimates hand probabilities through Monte Carlo simulation.
 
