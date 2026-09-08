@@ -9,7 +9,7 @@ Currently building, competing, and learning my way toward bigger things.
 
 ## 🔨 Currently Building:
 
-### 🧠 Styfer AI
+### 🧠 [Styfer AI](https://github.com/MedDebug/Styfer-AI)
 
 An AI-powered file and system assistant.
 
@@ -19,7 +19,7 @@ An experiment in understanding operating systems by building one from scratch.
 
 ### 🔌 Hardware Experiments
 
-Arduino, electronics, sensors, circuits, and embedded programming.
+Arduino, electronics, sensors, circuits, and embedded programming experiments.
 
 ### 🧩 Competitive Programming
 
