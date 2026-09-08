@@ -25,6 +25,12 @@ Arduino, electronics, sensors, circuits, and embedded programming experiments.
 
 Algorithms, data structures, and problem solving on Codeforces.
 
+## 🚀 Projects
+
+### ♠️ Poker Simulator
+
+A Python-based Texas Hold'em simulator that evaluates hands, simulates games, and estimates hand probabilities through Monte Carlo simulation.
+
 ## ⚙️ Tech Stack
 
 ### Languages
