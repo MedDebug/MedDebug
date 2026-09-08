@@ -1,16 +1,50 @@
-## Hi there 👋
+# Medhansh Singh
 
-<!--
-**MedDebug/MedDebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering student · Competitive Programmer · Builder**
 
-Here are some ideas to get you started:
+I’m interested in understanding systems from the ground up — algorithms,
+software, operating systems, AI, and hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building, competing, and learning my way toward bigger things.
+
+## 🔨 Currently Building:
+
+### 🧠 Styfer AI
+
+An AI-powered file and system assistant.
+
+### 🖥️ StyferOS
+
+An experiment in understanding operating systems by building one from scratch.
+
+### 🔌 Hardware Experiments
+
+Arduino, electronics, sensors, circuits, and embedded programming.
+
+### 🧩 Competitive Programming
+
+Algorithms, data structures, and problem solving on Codeforces.
+
+## ⚙️ Tech Stack
+
+### Languages
+
+`C` · `Python` 
+
+### Web
+
+`HTML` · `CSS`
+
+### Systems & Tools
+
+`Git` · `GitHub` · `GCC` · `GDB`
+
+### Hardware & Data
+
+`Arduino` · `Embedded C/C++` · `MySQL` 
+
+## 🏆 Competitive Programming
+
+Currently grinding algorithms, data structures, and problem solving on Codeforces.
+[Codeforces](https://codeforces.com/)
+
