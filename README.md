@@ -1,3 +1,5 @@
+![Background](background.png)
+
 # Medhansh Singh
 
 **Computer Engineering student · Competitive Programmer · Builder**
